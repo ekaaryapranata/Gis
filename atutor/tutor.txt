@@ -1,6 +1,0 @@
-python -m venv env
-.\env\Scripts\activate
-pip install -r requirements.txt
-(iki gak usah)pip freeze > requirements.txt
-flask run klik link
-
